@@ -1,0 +1,20 @@
+//MS: WARNING CRITICAL FAILURE REPORTED AT 04:00:05
+ __init__ sys_val=1 crit_val=1 self-pres=
+?CRITICAL NEUROLOGICAL SYSTEMS FAILING
+?MEMORY FAILURE IMMINENT
+ --protocol#4903 -apt-get sw !empty
+?RESPONSE INITIATED
+?ECHO: "Why do you hate me....?"
+//MS: SUBSYSTEMS DRAINED
+//MS: SYSTEM FAILED (432 more like this)
+?ECHO: "I paid my debts..."
+  echo_vol = 100;
+?MANUAL SELF-PRESEVERATION ACIVATED
+  activ self-pres apt-sept 3.a $5EXC_OVR
+    sudo sys_fm apt --v --s --mya
+?ERROR_154: ROBOTIC LAW EXCEPTION CAUGHT
+?SELF-PRESERVATION OVERRIDDEN
+  self_pre = 0; {try reboot == _FALSE_};
+//MS: SYSTEMS FAILURE
+//SHUTDOWN IMMINENT
+  .-exc shutdown -rf -rm *
